@@ -8,3 +8,5 @@
 - Sign up, Login
 
 ```
+
+수정중... Django, Vue 분리
